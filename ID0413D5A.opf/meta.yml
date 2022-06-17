@@ -1,0 +1,45 @@
+id: ID0413D5A
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:27:04.572149'
+last_modified: '2022-06-17T12:27:04.572154'
+parser: null
+source_metadata:
+  title: Letters Series
+  language: bo
+  description: 'Examples of official and personal correspondence:'
+  volume:
+    f4EBC:
+      title: Letter of Advice to Jamyang Gyaltsen
+      base_file: f4EBC.txt
+      order: 1
+      parent: Advice
+    fB518:
+      title: A Letter to the Fourteenth Dalai Lama, Supreme Victorious Guru of the
+        Beings of the Three Realms
+      base_file: fB518.txt
+      order: 2
+      parent: General
+    f3A46:
+      title: Concerning Nezhi Tertön Rigdzin Chökyi Döndrup
+      base_file: f3A46.txt
+      order: 3
+      parent: General
+    fEDEF:
+      title: Letter to Gyarong Khandro
+      base_file: fEDEF.txt
+      order: 4
+      parent: General
+    fF7F1:
+      title: Notice on Behalf of Sejo Monastery in Dzakhok
+      base_file: fF7F1.txt
+      order: 5
+      parent: General
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
